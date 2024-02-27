@@ -1,7 +1,7 @@
 <script setup>
 import { VCard } from 'vuetify/components/VCard'
 
-const props = defineProps({
+defineProps({
   name: {
     type: String,
     required: true

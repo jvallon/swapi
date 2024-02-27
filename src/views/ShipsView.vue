@@ -1,6 +1,5 @@
 <script setup>
 import ShipList from '../components/ShipList.vue'
-import { VBtn } from 'vuetify/components/VBtn'
 
 </script>
 
